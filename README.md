@@ -3,3 +3,4 @@
 This is the repo for the project report:
 - Dataset builder and preprocessing script can be seen in dataset folder
 - Main RDD R code can be found in project_func.R
+- Full project output can be found in project_func_pdf.pdf
